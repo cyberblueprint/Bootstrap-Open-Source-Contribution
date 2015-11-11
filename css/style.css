@@ -1,0 +1,74 @@
+body {
+	background-color: black;
+	color: white;
+}
+
+.panel {
+  margin-top: 70px;
+}
+
+/*
+native:; #0078a0 hover :#008cba
+*/
+
+.zapp {
+/*	margin-left: 300px;*/
+	padding: 10px, 70px;
+	color: black;
+}
+
+.navbar {
+  text-align: center;
+}
+
+.glyphicon-thumbs-down, .glyphicon-thumbs-up {
+	margin: 10px 10px;
+	font-size: 25px;
+	color: grey;
+}
+
+a, a:hover {
+	text-decoration: none;
+}
+
+.glyphicon-tumbs-up {
+	margin-left: 200px;
+}
+
+.caret {
+	right: 16px;
+	top: 16px;
+}
+
+.btn-default:hover, .btn-default:focus, .btn-default:active, .btn-default.active, .open, .dropdown-toggle.btn-default {
+	background-color: #fff;
+}
+
+.btn-group.open .dropdown-toggle {
+	box-shadow: 0 1px 1px rgba(0, 0, 0, 0.075)inset, 0 0 8px rgba(102, 175, 233, 0.6);
+}
+
+.btn-group { width: 100%;}
+.dropdown-menu { width: 100%; }
+
+
+.alert-warning {
+	background-color: #222222;
+	border-color: #222222;
+	color: #222222;
+	padding: 0px;
+	margin-bottom: 0px;
+}
+
+
+.alert-dismissible .close {
+	position: absolute;
+	margin-top: 15px;
+	color: white;
+	opacity: 1;
+	margin-right: 15px;
+}
+
+li-dropdown {
+	margin-left: 20px;
+}
